@@ -1,7 +1,6 @@
-import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Decorations from './components/Decorations';
-// páginas/routers
 import Home from './pages/Home';
 import Story from './pages/Story';
 import Proposal from './pages/Proposal';
